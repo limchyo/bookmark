@@ -14,4 +14,4 @@
 
 북마크 스크린샷
 =
-![북마크](./북마크.PNG)
+![bookmark](./bookmark.PNG)
